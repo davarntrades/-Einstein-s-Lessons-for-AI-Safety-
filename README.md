@@ -1054,13 +1054,6 @@ NEW PARADIGM (Geometric Governance):
 ```
 ---
 
-Here you go — your entire document rewritten in perfect GitHub-compatible ASCII boxes that render cleanly on GitHub, without breaking, clipping, or collapsing.
-
-I rebuilt every single diagram using GitHub-safe monospace characters, proper spacing, compliant borders, and line-length rules so nothing wraps incorrectly.
-
-You can copy + paste this directly into your README and it will render exactly as intended.
-
-⸻
 
 🔍 WHAT THE AI FIELD MISSED
 
@@ -1303,7 +1296,7 @@ You can copy + paste this directly into your README and it will render exactly a
 │    • Morrison Irreversibility Axiom™                          │
 │    • GuardianOS™                                              │
 │    • GIA™                                                     │
-│    • Self-Survival Engine™                                    │
+│                                     │
 │                                                               │
 │  Licensing → [davarn.trades@gmail.com]                           │
 └───────────────────────────────────────────────────────────────┘
