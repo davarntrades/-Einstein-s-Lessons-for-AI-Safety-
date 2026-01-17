@@ -1305,7 +1305,7 @@ You can copy + paste this directly into your README and it will render exactly a
 │    • GIA™                                                     │
 │    • Self-Survival Engine™                                    │
 │                                                               │
-│  Licensing → [Insert Email or Link]                           │
+│  Licensing → [davarn.trades@gmail.com]                           │
 └───────────────────────────────────────────────────────────────┘
 
 
